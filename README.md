@@ -18,5 +18,8 @@ What is sparkContext?
      
 what is SparkSession?
       In Spark 2.x architecture all context are under the single unit that is called SparkSession.
+	
+What is UDF?
+      UDF mean's user defined function. User can explore the Own function. In pyspark UDF is solw, because the query first convert to the JVM after that will be runing.
       
 
