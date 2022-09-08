@@ -22,4 +22,4 @@ what is SparkSession?
 What is UDF?
       UDF mean's user defined function. User can explore the Own function. In pyspark UDF is solw, because the query first convert to the JVM after that will be runing.
       
-
+__
